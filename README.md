@@ -1,5 +1,6 @@
 # Multiclass-U-Net-for-Fetal-Feature-Extraction
 Built a Multiclass U-Net Model for deep learning based segmentation mode capable  of identifying the structures of the fetal transventricular plane
+Upon using the "ipynb" notebook the results can be following results can be achieved
 ## Multiclass U-Net Model
 ![Multiclass-input-and-multiclass-output-U-Net-schematic-Our-U-Net-has-4-channel-input](https://user-images.githubusercontent.com/44440114/140685849-35f3aebb-b37d-417d-9431-9c549bf5fd3f.png)
 ## Dice Coefficient Graph
